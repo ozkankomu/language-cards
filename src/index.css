@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: wheat;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  height: 100vh;
+}
+
+.lang-card:hover {
+  box-shadow: inset 5px 5px 10px white;
+}
+
+.lang-logo {
+  transition: transform 0.3s;
+}
+
+.lang-logo:hover {
+  transform: scale(1.2);
+}
