@@ -11,7 +11,7 @@ body {
 }
 
 .lang-card:hover {
-  box-shadow: inset 5px 5px 10px white;
+  box-shadow: inset 5px 5px 10px white, 5px 5px 10px white;
 }
 
 .lang-logo {
