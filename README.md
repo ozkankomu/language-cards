@@ -29,7 +29,7 @@ Project aims to create a Languages Cards App. In the project, data was drawn fro
 ```
 002-Language Cards(folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         
 SOLUTION
 ├── public
 │     └── index.html
